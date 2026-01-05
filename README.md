@@ -39,24 +39,7 @@
 
 ---
 
-## 🏆 Projects Portfolio
 
-### 1️⃣ Image Blur vs Sharp Classification
-Description: Lightweight AI system to detect blur in images using handcrafted features and MLP neural network.  
-![Demo GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)  
-[GitHub Repo](https://github.com/Sarah111-AHM/image-blur-sharp-classification)
-
-### 2️⃣ AI-Powered Dental Robot
-Description: System to assist dentists in diagnostics using AI and robotics.  
-![Demo GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)  
-[GitHub Repo](https://github.com/Sarah111-AHM/dental-robot-ai)
-
-### 3️⃣ Other Project Example
-Description: Short description of your project with demo and link.  
-![Demo GIF](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)  
-[GitHub Repo](https://github.com/Sarah111-AHM/other-project)
-
----
 
 ## 📊 GitHub Stats
 <div>
