@@ -59,7 +59,14 @@ Learning the art of carving and precision — loving every detail! ✨
 
 ---
 
+### 🦷 Dental Carving
+![Carving](https://drive.google.com/uc?export=view&id=14mKRkCcEt36KVj1S6vZnCHqgbKl8YNF1)  
+*First steps into Dentistry hands-on.*  
+Learning the art of carving and precision — loving every detail! ✨
+
+---
+
 ### 🛠️ My Dental Toolkit
-![Dental Tools](images/dental_tools.jpg)  
+![Dental Tools](https://drive.google.com/uc?export=view&id=1iteKJySOKJYcP_IuBEsjn4gtb5Z1QMVM)  
 *Building my personal dental toolkit.*  
 Every tool tells a story of future skills and dreams in Dentistry. 💡
