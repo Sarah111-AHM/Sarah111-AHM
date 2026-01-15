@@ -22,7 +22,7 @@ My early academic focus laid the foundation for what would become my dual-path c
 
 ![University in Gaza](https://drive.google.com/uc?id=1TOV1PZVUHG_Q2_6RgzvNm02IHWLFXhsF)
 
-I began my AI studies at the Islamic University of Gaza, immersing myself in machine learning, computer vision, and technological applications.  
+I began my AI studies @ UCAS , immersing myself in machine learning, computer vision, and technological applications.  
 These classrooms—now largely destroyed by conflict—were where I first discovered how technology could transform lives.
 
 ---
