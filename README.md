@@ -52,3 +52,14 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quoteColor=B22222&backgroundColor=F5F5F5)
+### 🦷 Dental Carving
+![Carving](images/carving.jpg)  
+*First steps into Dentistry hands-on.*  
+Learning the art of carving and precision — loving every detail! ✨
+
+---
+
+### 🛠️ My Dental Toolkit
+![Dental Tools](images/dental_tools.jpg)  
+*Building my personal dental toolkit.*  
+Every tool tells a story of future skills and dreams in Dentistry. 💡
