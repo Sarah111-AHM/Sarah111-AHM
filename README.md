@@ -71,7 +71,9 @@ My interests include:
 - Accessible dental technology solutions  
 
 ---
-
+### My Experience in Artificial Intelligence
+Currently, I am an active member of the Palestine Quantum Computing Hackathon 2026 across universities in Palestine (both the West Bank and Gaza). I have completed several courses from prestigious universities like MIT and Stanford and participated in various initiatives and boot camps, through which I have built several useful projects and developed a strong network of talented peers.
+--- 
 ## What Drives Me
 
 War changed my timeline but not my ambitions.  
