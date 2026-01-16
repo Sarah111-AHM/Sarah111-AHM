@@ -90,7 +90,7 @@ My mother—an English instructor and public speaker.
 My role model, my strength, and my constant reminder that voice, education, and presence matter.
 
 ![With my mother](https://drive.google.com/uc?id=1sjcmSHVRO9cjsatCstALLV3I7DKA54_5)
-
+My mother is an English instructor, not a dentist as some might assume. My father is a cardiovascular surgeon, and he was the one who always encouraged me to love medicine.
 ---
 
 ## Let's Connect
