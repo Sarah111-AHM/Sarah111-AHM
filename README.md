@@ -37,9 +37,7 @@ These classrooms—now largely destroyed by conflict—were where I first discov
 ![War displacement 1](https://drive.google.com/uc?id=1VzLtz9ZiA1wuaVicaQxRpFa7a7De3W02)
 ![War displacement 2](https://drive.google.com/uc?id=1veCKDsXB2-lb2tqN7QkW9EuYpWI9-E4j)
 
-Two years of conflict and displacement tested my resolve.  
-Studying between bombings, reviewing notes during displacement, and constantly relocating became my reality.  
-Yet, I never stopped learning.
+During the displacement, most of the universities in Gaza stopped operating due to the poor conditions and ongoing conflict. However, I didn’t stop studying despite the worsening situation. I tried many times to leave Gaza through the Rafah crossing to continue my studies, but it was futile. We returned to online studying despite the lack of electricity and internet, and I managed to achieve an excellent GPA
 
 This period taught me that education persists even when institutions falter.
 
@@ -49,8 +47,8 @@ This period taught me that education persists even when institutions falter.
 
 ![Studying Dentistry in Egypt](https://drive.google.com/uc?id=1fdnBf7SclrZ_wOGEIYxyGxynSmyMKRjU)
 
-Continuing my education meant traveling to Egypt to study dental medicine.  
-This transition represents both sacrifice and commitment—leaving home to follow a dream of combining healthcare with technological innovation.
+I studied Dentistry at Cairo University, one of the top universities in Egypt and the Arab world. I frequently traveled between Gaza and Egypt to balance both specializations. When the war broke out, I was stuck in Gaza and couldn’t continue my studies, but I returned stronger than ever.
+I worked on carving and numbering teeth and built a movable jaw using teeth and wax on an articulator. Balancing Dentistry and Artificial Intelligence wasn’t easy — I went through many tough times and critical decisions, but I never wavered from my goal
 
 ---
 
