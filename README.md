@@ -9,12 +9,12 @@ My academic journey has been shaped by resilience and determination, continuing 
 
 ## My Journey
 
-##Early Beginnings and Challenges
+## Early Beginnings and Challenges
 
 ![Early studying](https://drive.google.com/uc?id=1HLngsNYeF2sxvxJaYnmBSEsFC3I39y0F)
 
-From childhood, I've been driven by curiosity and learning.  
-My early academic focus laid the foundation for what would become my dual-path career in technology and healthcare.
+Since childhood, my world has been a bit different. I learned English and the British accent fluently because my parents often spoke in English at home. In my spare time, I read my father's books on medicine and IELTS tests. My childhood wasn't typical — most of it was spent among books. I wasn’t very social, perhaps because I was an only child, and we moved between Egypt, Saudi Arabia, and Palestine, making it hard to settle in a stable environment.
+I had a tough time during high school, facing challenges on several fronts, which made it difficult for me to achieve the grade needed to enter medical school initially. So, I applied to Artificial Intelligence at UCAS, Gaza, despite not being fully convinced about the program in Gaza due to the lack of infrastructure and skilled professionals in the field, as is widely known
 
 ---
 
