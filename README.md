@@ -17,6 +17,11 @@ Since childhood, my world has been a bit different. I learned English and the Br
 I had a tough time during high school, facing challenges on several fronts, which made it difficult for me to achieve the grade needed to enter medical school initially. So, I applied to Artificial Intelligence at UCAS, Gaza, despite not being fully convinced about the program in Gaza due to the lack of infrastructure and skilled professionals in the field, as is widely known
 
 ---
+### The Shift and Double Challenge
+Over time, I began to accept the Artificial Intelligence major. I had already completed a whole semester in the field, and I started to find it enjoyable and fascinating. At the same time, my mother believed in my abilities and supported me to study Dentistry in Egypt, as my grades didn't allow me to pursue it in Gaza. I agreed because this was my childhood dream and something I excel at.
+And then the idea came: 
+#### why not study both fields and combine them in the future?
+---
 
 ### University Years in Gaza
 
