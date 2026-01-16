@@ -63,12 +63,13 @@ I believe these fields naturally intersect, with AI offering revolutionary possi
 
 ## Current Work
 
-I'm developing AI-powered dental tools and concepts that can assist dentists in providing more accurate diagnoses and efficient treatments.
-
-My interests include:
-- Machine learning applications for dental imaging  
-- Smart automation for clinical workflows  
-- Accessible dental technology solutions  
+Current and Future Work
+I am currently working on developing AI-powered dental tools that can assist dentists in providing more accurate diagnoses and efficient treatments.
+Areas of Interest:
+Machine learning applications for dental imaging and radiographic analysis
+Smart automation for clinical workflows and dental clinics
+Accessible and affordable dental technology solutions
+Diagnostic systems using computer vision
 
 ---
 ### My Experience in Artificial Intelligence
