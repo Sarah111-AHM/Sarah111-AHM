@@ -9,7 +9,7 @@ My academic journey has been shaped by resilience and determination, continuing 
 
 ## My Journey
 
-### Early Passion
+##Early Beginnings and Challenges
 
 ![Early studying](https://drive.google.com/uc?id=1HLngsNYeF2sxvxJaYnmBSEsFC3I39y0F)
 
