@@ -1,7 +1,7 @@
-
-I'm Sarah Abumandil, currently pursuing two parallel degrees:  
-**Artificial Intelligence (3rd year)** at the Islamic University of Gaza, and  
-**Dental Medicine (2nd year)** in Egypt.
+## Sarah Abumandil
+I am currently pursuing two parallel degrees in two completely different fields:
+Artificial Intelligence (3rd year) at UCAS, Gaza, and Dentistry (2nd year) at Cairo University, Egypt.
+My academic journey has been shaped by resilience and determination, continuing my education despite significant challenges and displacement
 
 My academic journey has been shaped by resilience and determination, continuing my education despite wartime interruptions and displacement.
 
