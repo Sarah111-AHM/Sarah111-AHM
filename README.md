@@ -107,3 +107,6 @@ I'm interested in collaborating on projects that bridge healthcare and technolog
 | Certificate 🔥 | Issuer | Date | Skills | Proof |
 |----------------|--------|------|--------|-------|
 | <img src="https://drive.google.com/uc?export=view&id=1ZSD7psEfb9TMgdhFRGWmE9BbNmsecUGi" width="120"/> | **DotPy** | Dec 2025 | Python, Machine Learning, Data Science, Prompt Engineering | [View Certificate](https://drive.google.com/file/d/1ZSD7psEfb9TMgdhFRGWmE9BbNmsecUGi/view) |
+| Certificate 🔥 | Issuer | Date | Skills | Proof |
+|----------------|--------|------|--------|-------|
+| <img src="https://drive.google.com/uc?export=view&id=1VlVPHjS9ZcK_Y4iMEOr0i_mZuoWZl3-N" width="120"/> | **IDA – International Dental Academy**<br/>BKMED Events | March 2024 | • Complete Denture Classification<br/>• Denture Tooth Arrangement<br/>• Clinical Hands-on Training<br/>• Case Diagnosis & Jaw Relation Records | [View Certificate](https://drive.google.com/file/d/1VlVPHjS9ZcK_Y4iMEOr0i_mZuoWZl3-N/view) |
