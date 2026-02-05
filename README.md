@@ -1,4 +1,4 @@
-## Sarah Abumandil
+## Sarah Abumand
 I am currently pursuing two parallel degrees in two completely different fields:
 Artificial Intelligence (3rd year) at UCAS, Gaza, and Dentistry (2nd year) at Cairo University, Egypt.
 My academic journey has been shaped by resilience and determination, continuing my education despite significant challenges and displacement
@@ -105,5 +105,5 @@ I'm interested in collaborating on projects that bridge healthcare and technolog
 
 *This journey continues—one lesson, one innovation, one patient at a time*
 | Certificate | Issuer | Date | Skills | Proof |
-|-------------|--------|------|--------|-------|
-| **AI Mindsets Diploma** | DotPy | Dec 2025 | Python, ML, Data Science, Prompt Engineering | [View](https://drive.google.com/file/d/1ZSD7psEfb9TMgdhFRGWmE9BbNmsecUGi/view) |
+|----------------|--------|------|--------|-------|
+| <p align="center"><img src="certificates/ai-mindsets-diploma.png" width="120"/></p> | **DotPy** | Dec 2025 | Python, ML, Data Science, Prompt Engineering | [View](https://drive.google.com/file/d/1ZSD7psEfb9TMgdhFRGWmE9BbNmsecUGi/view) |
