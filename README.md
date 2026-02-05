@@ -104,6 +104,6 @@ I'm interested in collaborating on projects that bridge healthcare and technolog
 ---
 
 *This journey continues—one lesson, one innovation, one patient at a time*
-| Certificate | Issuer | Date | Skills | Proof |
+| Certificate 🔥 | Issuer | Date | Skills | Proof |
 |----------------|--------|------|--------|-------|
-| <p align="center"><img src="certificates/ai-mindsets-diploma.png" width="120"/></p> | **DotPy** | Dec 2025 | Python, ML, Data Science, Prompt Engineering | [View](https://drive.google.com/file/d/1ZSD7psEfb9TMgdhFRGWmE9BbNmsecUGi/view) |
+| <img src="https://drive.google.com/uc?export=view&id=1ZSD7psEfb9TMgdhFRGWmE9BbNmsecUGi" width="120"/> | **DotPy** | Dec 2025 | Python, Machine Learning, Data Science, Prompt Engineering | [View Certificate](https://drive.google.com/file/d/1ZSD7psEfb9TMgdhFRGWmE9BbNmsecUGi/view) |
