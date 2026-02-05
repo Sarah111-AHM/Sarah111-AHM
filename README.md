@@ -110,3 +110,6 @@ I'm interested in collaborating on projects that bridge healthcare and technolog
 | Certificate 🔥 | Issuer | Date | Skills | Proof |
 |----------------|--------|------|--------|-------|
 | <img src="https://drive.google.com/uc?export=view&id=1VlVPHjS9ZcK_Y4iMEOr0i_mZuoWZl3-N" width="120"/> | **IDA – International Dental Academy**<br/>BKMED Events | March 2024 | • Complete Denture Classification<br/>• Denture Tooth Arrangement<br/>• Clinical Hands-on Training<br/>• Case Diagnosis & Jaw Relation Records | [View Certificate](https://drive.google.com/file/d/1VlVPHjS9ZcK_Y4iMEOr0i_mZuoWZl3-N/view) |
+| Certificate 🔥 | Issuer | Date | Skills | Proof |
+|----------------|--------|------|--------|-------|
+| <img src="https://drive.google.com/uc?export=view&id=1OVXsGi3lf1GdN3H2uuMfrN7TF3eginGU" width="120"/> | **Coursera**<br/>The State University of New York (SUNY) | Month 2025 | • Time Series Concepts (Trend, Seasonality, Noise)<br/>• Forecasting Models<br/>• Practical Time Series Applications | [View Certificate](https://drive.google.com/file/d/1OVXsGi3lf1GdN3H2uuMfrN7TF3eginGU/view) |
