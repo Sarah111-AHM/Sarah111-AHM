@@ -152,3 +152,6 @@ I'm interested in collaborating on projects that bridge healthcare and technolog
 | Certificate | Issuer | Date | Skills | Proof |
 |-------------|--------|------|--------|-------|
 | **Intelligent Machining**<br/>*Digital Manufacturing & Design Technology* | **Coursera**<br/>University at Buffalo, SUNY | Month 2025 | • Industry 4.0 & Smart Manufacturing<br/>• Sensor Technology & Sensing Systems<br/>• Programmable Logic Controllers (PLCs)<br/>• Adaptive Process Control<br/>• Signal Processing & Manufacturing Analytics<br/>• Autonomous Machine Decision-Making | [View Certificate](https://drive.google.com/file/d/1yX9CXYrcxI9P-ZiNs4jN71k09nBsElSq/view) |
+| Certificate | Issuer | Date | Skills | Proof |
+|-------------|--------|------|--------|-------|
+| **Databases and SQL for Data Science with Python** | **Coursera**<br/>IBM | Month 2025 | • SQL Fundamentals (SELECT, INSERT, UPDATE, DELETE)<br/>• Relational Database Management<br/>• Python Database Connectivity (APIs)<br/>• Data Analysis with SQL & Python<br/>• Jupyter Notebooks for Database Access<br/>• Database Design & Normalization | [View Certificate](https://drive.google.com/file/d/1N_kCLDTaSNJFj1MmoB6oyzdSKOjR4EE3/view) |
