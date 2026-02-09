@@ -125,3 +125,6 @@ I'm interested in collaborating on projects that bridge healthcare and technolog
 | Certificate | Issuer | Date | Skills | Proof |
 |-------------|--------|------|--------|-------|
 | **Artificial Intelligence in Health Care** | **MIT Sloan School of Management**<br/>MIT Jameel Clinic | July 2023 | • AI & ML in Healthcare Applications<br/>• Disease Diagnosis & Patient Monitoring<br/>• Neural Networks & Deep Learning<br/>• Healthcare Workflow Optimization<br/>• Real-world Healthcare Case Studies | [View Certificate](https://drive.google.com/file/d/1AFDYgxT3mY7-nT5Co9pJwRs6roTYzU_-/view) |
+| Certificate | Issuer | Date | Skills | Proof |
+|-------------|--------|------|--------|-------|
+| **Artificial Intelligence on Microsoft Azure** | **Coursera**<br/>Microsoft | Month 2025 | • Azure AI Services & Tools<br/>• Machine Learning on Azure<br/>• Computer Vision & NLP<br/>• Conversational AI & Chatbots<br/>• Responsible AI Principles | [View Certificate](https://drive.google.com/file/d/1fSzIp2vKuEpMxlr8VhlZkzf9nmYBhlOY/view) |
