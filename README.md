@@ -113,3 +113,6 @@ I'm interested in collaborating on projects that bridge healthcare and technolog
 | Certificate 🔥 | Issuer | Date | Skills | Proof |
 |----------------|--------|------|--------|-------|
 | <img src="https://drive.google.com/uc?export=view&id=1OVXsGi3lf1GdN3H2uuMfrN7TF3eginGU" width="120"/> | **Coursera**<br/>The State University of New York (SUNY) | Month 2025 | • Time Series Concepts (Trend, Seasonality, Noise)<br/>• Forecasting Models<br/>• Practical Time Series Applications | [View Certificate](https://drive.google.com/file/d/1OVXsGi3lf1GdN3H2uuMfrN7TF3eginGU/view) |
+| Certificate 🔥 | Issuer | Date | Skills | Proof |
+|----------------|--------|------|--------|-------|
+| <img src="https://drive.google.com/thumbnail?id=1FOVjaY9Gr2N5vweQcEqppz8tFAoBsqhI&sz=w200" width="120"/> | **Coursera**<br/>Google Career Certificates | Month 2025 | • Foundational AI Concepts<br/>• Practical AI Applications<br/>• Google AI Tools & Techniques<br/>• AI Ethics & Best Practices | [View Certificate](https://drive.google.com/file/d/1FOVjaY9Gr2N5vweQcEqppz8tFAoBsqhI/view) |
