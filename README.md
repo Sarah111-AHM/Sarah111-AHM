@@ -134,3 +134,6 @@ I'm interested in collaborating on projects that bridge healthcare and technolog
 | Certificate | Issuer | Date | Skills | Proof |
 |-------------|--------|------|--------|-------|
 | **Survival English A1** | **American University in Cairo (AUC)**<br/>School of Continuing Education | Month 2025 | • Basic English Communication<br/>• Everyday Conversation Skills<br/>• Vocabulary for Daily Situations<br/>• CEFR Level A1 Proficiency | [View Certificate](https://drive.google.com/file/d/14sCe0l-wBsg6XcWNx8Y-cxxKScC_JK_4/view) |
+| Certificate | Issuer | Date | Skills | Proof |
+|-------------|--------|------|--------|-------|
+| **Medical Book Publishing Course**<br/>*Become a Medical Book Chapter Author* | **Global Medical Education Institute and Publishing (GMEIP)** | December 14, 2024 | • Medical Manuscript Preparation<br/>• Scholarly Publishing Process<br/>• Book Chapter Authoring<br/>• Academic Writing & Editing<br/>• Medical Research Documentation | [View Certificate](https://drive.google.com/file/d/1-hUgQGZ8s7bSTttI9hk5JJ3aC3qKYNBt/view) |
