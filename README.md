@@ -137,3 +137,6 @@ I'm interested in collaborating on projects that bridge healthcare and technolog
 | Certificate | Issuer | Date | Skills | Proof |
 |-------------|--------|------|--------|-------|
 | **Medical Book Publishing Course**<br/>*Become a Medical Book Chapter Author* | **Global Medical Education Institute and Publishing (GMEIP)** | December 14, 2024 | • Medical Manuscript Preparation<br/>• Scholarly Publishing Process<br/>• Book Chapter Authoring<br/>• Academic Writing & Editing<br/>• Medical Research Documentation | [View Certificate](https://drive.google.com/file/d/1-hUgQGZ8s7bSTttI9hk5JJ3aC3qKYNBt/view) |
+| Certificate | Issuer | Date | Skills | Proof |
+|-------------|--------|------|--------|-------|
+| **Digitelles Misr Program - Cohort 2**<br/>*Empowering Women in Digital Freelancing* | **Capgemini Egypt**<br/>Onsi Sawiris School of Business, AUC | Month 2025 | • Digital Freelancing Skills<br/>• AI Tools & Applications<br/>• Digital Marketing Strategies<br/>• Remote Work & Entrepreneurship<br/>• Professional Networking & Mentorship | [View Certificate](https://drive.google.com/file/d/1PcTfXjXTzTzl8QJrIFLEnzqSNDsbvV9T/view) |
