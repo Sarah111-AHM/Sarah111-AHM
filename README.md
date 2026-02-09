@@ -116,3 +116,9 @@ I'm interested in collaborating on projects that bridge healthcare and technolog
 | Certificate 🔥 | Issuer | Date | Skills | Proof |
 |----------------|--------|------|--------|-------|
 | <img src="https://drive.google.com/thumbnail?id=1FOVjaY9Gr2N5vweQcEqppz8tFAoBsqhI&sz=w200" width="120"/> | **Coursera**<br/>Google Career Certificates | Month 2025 | • Foundational AI Concepts<br/>• Practical AI Applications<br/>• Google AI Tools & Techniques<br/>• AI Ethics & Best Practices | [View Certificate](https://drive.google.com/file/d/1FOVjaY9Gr2N5vweQcEqppz8tFAoBsqhI/view) |
+| Certificate | Issuer | Date | Skills | Proof |
+|-------------|--------|------|--------|-------|
+| **Microsoft Office Training Program**<br/>*Word, Excel, PowerPoint, Access* | **Training Program**<br/>Issued by: Eng. Mustafa Jabbar | Month 2025 | • Advanced MS Word<br/>• Excel Formulas & Functions<br/>• PowerPoint Presentations<br/>• Access Database Management | [View Certificate](https://drive.google.com/file/d/1-c-1uzR5iliFsQum8i63Y-nSPxWAaYYO/view) |
+| Certificate | Issuer | Date | Skills | Proof |
+|-------------|--------|------|--------|-------|
+| **Data Analysis and Visualization with Power BI** | **Coursera**<br/>Microsoft | Month 2025 | • Power BI Dashboard Design<br/>• Data Visualization & Storytelling<br/>• Advanced Analytics & DAX<br/>• Interactive Reports Creation | [View Certificate](https://drive.google.com/file/d/1C5ucS8g5D_4sg1xBv0v3BwhpxsjBttlo/view) |
