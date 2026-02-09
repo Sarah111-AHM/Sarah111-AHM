@@ -149,3 +149,6 @@ I'm interested in collaborating on projects that bridge healthcare and technolog
 | Certificate | Issuer | Date | Skills | Proof |
 |-------------|--------|------|--------|-------|
 | **Google Data Analytics Professional Certificate** | **Coursera**<br/>Google | December 21, 2023 | • Data Analysis & Visualization<br/>• SQL & Database Management<br/>• R Programming & Statistics<br/>• Tableau Dashboard Creation<br/>• Spreadsheets (Excel/Sheets)<br/>• Data Cleaning & Processing<br/>• Data Storytelling & Ethics | [View Certificate](https://drive.google.com/file/d/1XEk_ktT1q-AF7DYul8HiNLPpQUrGfl55/view) |
+| Certificate | Issuer | Date | Skills | Proof |
+|-------------|--------|------|--------|-------|
+| **Intelligent Machining**<br/>*Digital Manufacturing & Design Technology* | **Coursera**<br/>University at Buffalo, SUNY | Month 2025 | • Industry 4.0 & Smart Manufacturing<br/>• Sensor Technology & Sensing Systems<br/>• Programmable Logic Controllers (PLCs)<br/>• Adaptive Process Control<br/>• Signal Processing & Manufacturing Analytics<br/>• Autonomous Machine Decision-Making | [View Certificate](https://drive.google.com/file/d/1yX9CXYrcxI9P-ZiNs4jN71k09nBsElSq/view) |
