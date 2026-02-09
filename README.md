@@ -140,3 +140,6 @@ I'm interested in collaborating on projects that bridge healthcare and technolog
 | Certificate | Issuer | Date | Skills | Proof |
 |-------------|--------|------|--------|-------|
 | **Digitelles Misr Program - Cohort 2**<br/>*Empowering Women in Digital Freelancing* | **Capgemini Egypt**<br/>Onsi Sawiris School of Business, AUC | Month 2025 | • Digital Freelancing Skills<br/>• AI Tools & Applications<br/>• Digital Marketing Strategies<br/>• Remote Work & Entrepreneurship<br/>• Professional Networking & Mentorship | [View Certificate](https://drive.google.com/file/d/1PcTfXjXTzTzl8QJrIFLEnzqSNDsbvV9T/view) |
+| Certificate | Issuer | Date | Skills | Proof |
+|-------------|--------|------|--------|-------|
+| **First Aid Training Workshop**<br/>*"Be Human and Save a Life" Initiative* | **Life Support Training Center**<br/>مركز دعم الحياة للتدريب | July 4, 2025 | • Basic First Aid Procedures<br/>• Emergency Response Skills<br/>• Life-Saving Techniques<br/>• CPR & Basic Life Support<br/>• Virtual Training Completion | [View Certificate](https://drive.google.com/file/d/1uTuvULIzrIozDRJWWH3bSl-vvLkEBFyD/view) |
