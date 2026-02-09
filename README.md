@@ -146,3 +146,6 @@ I'm interested in collaborating on projects that bridge healthcare and technolog
 | Certificate | Issuer | Date | Skills | Proof |
 |-------------|--------|------|--------|-------|
 | **Computer Vision in Microsoft Azure** | **Coursera**<br/>Microsoft | Month 2025 | • Image Analysis & Object Detection<br/>• Azure Vision Services<br/>• Face Recognition & Analysis<br/>• Optical Character Recognition (OCR)<br/>• Custom Vision Model Training | [View Certificate](https://drive.google.com/file/d/1FORZuGcFR1rDyWU6rlY11W-UhgF9n5Ni/view) |
+| Certificate | Issuer | Date | Skills | Proof |
+|-------------|--------|------|--------|-------|
+| **Google Data Analytics Professional Certificate** | **Coursera**<br/>Google | December 21, 2023 | • Data Analysis & Visualization<br/>• SQL & Database Management<br/>• R Programming & Statistics<br/>• Tableau Dashboard Creation<br/>• Spreadsheets (Excel/Sheets)<br/>• Data Cleaning & Processing<br/>• Data Storytelling & Ethics | [View Certificate](https://drive.google.com/file/d/1XEk_ktT1q-AF7DYul8HiNLPpQUrGfl55/view) |
