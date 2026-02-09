@@ -143,3 +143,6 @@ I'm interested in collaborating on projects that bridge healthcare and technolog
 | Certificate | Issuer | Date | Skills | Proof |
 |-------------|--------|------|--------|-------|
 | **First Aid Training Workshop**<br/>*"Be Human and Save a Life" Initiative* | **Life Support Training Center**<br/>مركز دعم الحياة للتدريب | July 4, 2025 | • Basic First Aid Procedures<br/>• Emergency Response Skills<br/>• Life-Saving Techniques<br/>• CPR & Basic Life Support<br/>• Virtual Training Completion | [View Certificate](https://drive.google.com/file/d/1uTuvULIzrIozDRJWWH3bSl-vvLkEBFyD/view) |
+| Certificate | Issuer | Date | Skills | Proof |
+|-------------|--------|------|--------|-------|
+| **Computer Vision in Microsoft Azure** | **Coursera**<br/>Microsoft | Month 2025 | • Image Analysis & Object Detection<br/>• Azure Vision Services<br/>• Face Recognition & Analysis<br/>• Optical Character Recognition (OCR)<br/>• Custom Vision Model Training | [View Certificate](https://drive.google.com/file/d/1FORZuGcFR1rDyWU6rlY11W-UhgF9n5Ni/view) |
