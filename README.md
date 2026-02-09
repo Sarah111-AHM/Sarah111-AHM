@@ -128,3 +128,6 @@ I'm interested in collaborating on projects that bridge healthcare and technolog
 | Certificate | Issuer | Date | Skills | Proof |
 |-------------|--------|------|--------|-------|
 | **Artificial Intelligence on Microsoft Azure** | **Coursera**<br/>Microsoft | Month 2025 | • Azure AI Services & Tools<br/>• Machine Learning on Azure<br/>• Computer Vision & NLP<br/>• Conversational AI & Chatbots<br/>• Responsible AI Principles | [View Certificate](https://drive.google.com/file/d/1fSzIp2vKuEpMxlr8VhlZkzf9nmYBhlOY/view) |
+| Certificate | Issuer | Date | Skills | Proof |
+|-------------|--------|------|--------|-------|
+| **Natural Language Processing in Microsoft Azure** | **Coursera**<br/>Microsoft | Month 2025 | • Text Analysis & Sentiment Analysis<br/>• Speech Recognition & Synthesis<br/>• Language Translation Services<br/>• Conversational AI & Chatbots<br/>• Language Understanding (LUIS) | [View Certificate](https://drive.google.com/file/d/1w2AqvaeRbZwRgLgrASiyL4zuFJ3sRgBX/view) |
